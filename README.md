@@ -10,7 +10,6 @@
 
 - 👨‍💻 More at (https://petterson.netlify.app)
 
-<!--
 
 <br><br>
 
@@ -31,14 +30,10 @@
 <p align="left" style="background:yellow">
 
 <a href="https://www.linkedin.com/in/erick-petterson-1a4685173/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-erickpetterson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 </p>
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
 **erickpetterson/erickpetterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
