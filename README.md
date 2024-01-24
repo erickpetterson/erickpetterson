@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @erickpetterson
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?erickpetterson=anuraghazra&show_icons=true&theme=transparent)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickpetterson&show_icon=true&theme=transparent)
 
